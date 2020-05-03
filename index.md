@@ -3,4 +3,4 @@
 Dies ist unsere neue Club Webseite
 
 * ueber diese Seite wollen wir neue Mitglieder werben
-* diese sollen uns als Knappen dienen
+* unser Ziel ist es möglichst viele neue aktive Mitglieder zu gewinnen
