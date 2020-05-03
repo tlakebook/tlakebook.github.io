@@ -7,4 +7,4 @@ Dies ist unsere neue Club Webseite
 
 Funktionen
 * [Bewerbung](bewerbung)
-* [Mitgliederbereich](mitglieder)
+* [Emoji sind cool](emojitest)
